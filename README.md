@@ -9,3 +9,6 @@ Here in this assignment the dataset contains a modified version of https://www.k
 
 3) mel - Melanoma, a malignant tumour formed from melanocytes, can take various forms. A straightforward surgical excision can cure it if caught early enough. Melanomas   can be invasive or non-invasive (in situ). We included all melanoma subtypes, including melanoma in situ, however we did not include non-pigmented, subungual, ocular,   or mucosal melanoma.
 
+
+# **MODEL**
+We used transfer learning to many models and ultimately decided on the Final Model based on the data we gathered during the training.
