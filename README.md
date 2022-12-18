@@ -12,3 +12,14 @@ Here in this assignment the dataset contains a modified version of https://www.k
 
 # **MODEL**
 We used transfer learning to many models and ultimately decided on the Final Model based on the data we gathered during the training.
+
+** PROCESS**
+1)** Data Processing**
+     Preprocess the data so that it is properly encoded and clean.
+   
+ 2)**EXPERIMENT**
+     Writing a training loop with checkpoint system and utility methods for managing checkpoints and saved files.Trying out different configurations of the models given      above and selecting the best model and configuration.
+     
+ 3)** Grad-CAM**
+      Implementing inference method with built in Grad-CAM.
+   
