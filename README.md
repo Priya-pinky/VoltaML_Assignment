@@ -20,6 +20,6 @@ We used transfer learning to many models and ultimately decided on the Final Mod
  2)**EXPERIMENT**
      Writing a training loop with checkpoint system and utility methods for managing checkpoints and saved files.Trying out different configurations of the models given      above and selecting the best model and configuration.
      
- 3) **Grad-CAM**
+ 3)**Grad-CAM**
      Implementing inference method with built in Grad-CAM.
    
