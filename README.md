@@ -13,7 +13,7 @@ Here in this assignment the dataset contains a modified version of https://www.k
 # **MODEL**
 We used transfer learning to many models and ultimately decided on the Final Model based on the data we gathered during the training.
 
-** PROCESS**
+# ** PROCESS**
 1)** Data Processing**
      Preprocess the data so that it is properly encoded and clean.
    
